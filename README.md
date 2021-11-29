@@ -1,4 +1,4 @@
-# chuproject
+# project
 
 ## Project setup
 ```
